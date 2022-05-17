@@ -17,4 +17,4 @@ do
 	echo "Best School"
 	fi
     (( c=c+1 ))
-don
+done
